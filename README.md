@@ -6,5 +6,4 @@ This repository contains data structures and algorithms implemented in C++.
 
 [Notion](https://www.notion.so/DSA-PLAN-27bc1d050f9c8060b714d6ce82336798?source=copy_link) - DSA PLAN
 
-# NOTE:
-Need to continue from GCD/Euclidean Algorithm
+SQL
